@@ -2,6 +2,8 @@
 
 Project to create some database design to a project to train development and database model.
 
+![Image of the cover of the project](https://github.com/hi-hi-ray/cosplayer-database/blob/main/assets-gh/gh-cover.gif)
+
 ### Description Português
 Este projeto visa a criação de um modelo de banco de dados, combinando o rigor técnico do desenvolvimento com a temática única do cosplay. A iniciativa busca aprimorar habilidades em design e modelagem de dados, oferecendo uma oportunidade para aplicar conceitos avançados em um contexto criativo e especializado.
 
