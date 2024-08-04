@@ -1,0 +1,12 @@
+{
+    "_id": ObjectId("..."),
+    "characters_id": ObjectId("..."),
+    "cosplay_materials_id": ObjectId("..."),
+    "events_id": ObjectId("..."),
+    "name": "varchar",
+    "instagram": "varchar(50)",
+    "best_photo_path": "varchar",
+    "created_at": ISODate("..."),
+    "updated_at": ISODate("...")
+  }
+  

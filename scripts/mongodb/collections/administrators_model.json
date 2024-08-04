@@ -1,0 +1,9 @@
+{
+    "_id": ObjectId("..."),
+    "active": true,
+    "username": "varchar(50)",
+    "password": "bytea",
+    "created_at": ISODate("..."),
+    "updated_at": ISODate("...")
+  }
+  

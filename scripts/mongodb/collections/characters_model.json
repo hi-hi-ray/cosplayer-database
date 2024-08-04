@@ -1,0 +1,17 @@
+{
+    "_id": ObjectId("..."),
+    "quotes_id": ObjectId("..."),
+    "cosplayers_id": ObjectId("..."),
+    "origin": "text",
+    "name": "varchar",
+    "hair_description": "varchar",
+    "color_eyes": "varchar",
+    "accessories": "varchar",
+    "gender": "varchar",
+    "skin_color": "varchar",
+    "clothes_description": "varchar",
+    "reference_image_path": "varchar",
+    "created_at": ISODate("..."),
+    "updated_at": ISODate("...")
+  }
+  

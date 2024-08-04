@@ -1,0 +1,15 @@
+{
+    "_id": ObjectId("..."),
+    "contact": true,
+    "role": "varchar",
+    "materials": "varchar",
+    "top_pieces": "varchar",
+    "bottom_pieces": "varchar",
+    "leg_pieces": "varchar",
+    "feet_pieces": "varchar",
+    "accessories": "varchar",
+    "cost_estimate": 123.45,
+    "created_at": ISODate("..."),
+    "updated_at": ISODate("...")
+  }
+  

@@ -1,0 +1,8 @@
+{
+    "_id": ObjectId("..."),
+    "characters_id": ObjectId("..."),
+    "text": "varchar",
+    "created_at": ISODate("..."),
+    "updated_at": ISODate("...")
+  }
+  

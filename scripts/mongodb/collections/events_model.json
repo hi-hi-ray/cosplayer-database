@@ -1,0 +1,13 @@
+{
+    "_id": ObjectId("..."),
+    "name": "varchar",
+    "category": "varchar",
+    "place": 123,
+    "won": true,
+    "date": ISODate("..."),
+    "location": "varchar",
+    "prizes": "varchar",
+    "created_at": ISODate("..."),
+    "updated_at": ISODate("...")
+  }
+  
